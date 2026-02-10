@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2021<br>
+  
   📚 I'm currently learning Data Science, Machine Learning, Deep Learning, and LLMs (LangChain & RAG)<br>
   🎯 Goals: build impactful real-world projects, grow as a strong software/ML engineer, and land solid internship opportunities<br>
   🎲 Fun fact: I understand concepts best after breaking things, debugging them, and then explaining them like I’m teaching
